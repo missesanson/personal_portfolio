@@ -1,0 +1,234 @@
+media:
+  - name: article_images
+    label: Article images
+    input: public/images/uploads
+    output: /images/uploads
+    extensions: [jpg, jpeg, png, webp, gif]
+    categories: [image]
+    rename: safe
+
+content:
+  - name: writing
+    label: Writing
+    type: collection
+    path: content/writing
+    filename:
+      template: "{title}.md"
+      field: false
+    format: yaml-frontmatter
+    view:
+      fields: [title, category, date, featured, draft]
+      primary: title
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: description
+        label: Short description
+        type: text
+        required: true
+      - name: date
+        label: Publication date
+        type: date
+        required: true
+      - name: category
+        label: Category
+        type: select
+        required: true
+        options:
+          values: [Articles, Copywriting, Ghostwriting, Editing, Essays, Research]
+      - name: project
+        label: Project label
+        type: string
+        description: "Examples: Independent portfolio project, Personal essay, Client project."
+      - name: role
+        label: Your role
+        type: string
+      - name: audience
+        label: Intended audience
+        type: string
+      - name: featured
+        label: Feature on homepage
+        type: boolean
+        default: false
+      - name: draft
+        label: Keep as draft
+        type: boolean
+        default: true
+      - name: cover
+        label: Optional cover image
+        type: image
+        options:
+          media: article_images
+          path: public/images/uploads
+          rename: safe
+      - name: body
+        label: Writing
+        type: rich-text
+        required: true
+        options:
+          format: markdown
+          media: article_images
+          path: public/images/uploads
+          rename: safe
+          switcher: true
+
+  - name: site_settings
+    label: Website settings
+    type: file
+    path: content/settings/site.json
+    format: json
+    operations:
+      delete: false
+      rename: false
+    fields:
+      - name: name
+        label: Name
+        type: string
+        required: true
+      - name: monogram
+        label: Monogram
+        type: string
+        description: "Two or three letters used in the logo."
+      - name: role
+        label: Professional title
+        type: string
+      - name: tagline
+        label: Main headline
+        type: string
+      - name: subheading
+        label: Homepage introduction
+        type: text
+      - name: studentLabel
+        label: Small identity line
+        type: string
+      - name: availability
+        label: Availability message
+        type: string
+      - name: location
+        label: Location
+        type: string
+      - name: email
+        label: Professional email
+        type: string
+      - name: linkedin
+        label: LinkedIn URL
+        type: string
+      - name: siteUrl
+        label: Custom domain
+        type: string
+        description: "Leave blank while using the normal GitHub Pages address."
+      - name: siteDescription
+        label: Search-engine description
+        type: text
+      - name: shortBio
+        label: Short biography
+        type: text
+      - name: about
+        label: About-page paragraphs
+        type: text
+        list: true
+      - name: contactIntro
+        label: Contact-page introduction
+        type: text
+      - name: guardianNotice
+        label: Contract note
+        type: text
+      - name: footerLine
+        label: Footer line
+        type: string
+      - name: accent
+        label: Accent colour in light mode
+        type: string
+        description: "Use a hex colour such as #c95732."
+      - name: accentDark
+        label: Accent colour in dark mode
+        type: string
+      - name: paper
+        label: Light background colour
+        type: string
+      - name: ink
+        label: Light text colour
+        type: string
+      - name: featuredLimit
+        label: Number of featured pieces
+        type: number
+      - name: principles
+        label: Writing principles
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{title}"
+        fields:
+          - name: title
+            label: Title
+            type: string
+          - name: text
+            label: Explanation
+            type: text
+      - name: interests
+        label: Interests
+        type: string
+        list: true
+
+  - name: services
+    label: Services
+    type: file
+    path: content/services.json
+    format: json
+    list: true
+    operations:
+      delete: false
+      rename: false
+    fields:
+      - name: name
+        label: Service name
+        type: string
+      - name: kicker
+        label: Short label
+        type: string
+      - name: description
+        label: Description
+        type: text
+      - name: deliverables
+        label: Deliverables
+        type: text
+      - name: idealFor
+        label: Ideal for
+        type: text
+
+  - name: process
+    label: Working process
+    type: file
+    path: content/process.json
+    format: json
+    list: true
+    operations:
+      delete: false
+      rename: false
+    fields:
+      - name: number
+        label: Number
+        type: string
+      - name: title
+        label: Step title
+        type: string
+      - name: text
+        label: Explanation
+        type: text
+
+settings:
+  content:
+    merge: true
+  commit:
+    templates:
+      create: "content: add {filename}"
+      update: "content: update {filename}"
+      delete: "content: remove {filename}"
+      rename: "content: rename {oldFilename} to {newFilename}"

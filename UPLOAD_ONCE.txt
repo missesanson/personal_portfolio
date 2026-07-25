@@ -1,0 +1,18 @@
+BROWSER-ONLY UPLOAD — NO GITHUB DESKTOP
+
+1. Download and extract the ZIP.
+2. Open your personal_portfolio repository.
+3. Click Add file > Upload files.
+4. Open the extracted folder, press Ctrl+A, then drag every selected item into GitHub together.
+   Do not upload the ZIP itself. Make sure .github and .pages.yml are included.
+5. Click Commit changes.
+
+The ZIP includes a ready-made premium site at the repository root, so it can replace the old page immediately.
+
+For Pages CMS changes to rebuild automatically:
+6. Open Settings > Pages.
+7. Set Source to GitHub Actions.
+8. Open Actions and wait for "Build and deploy portfolio" to become green.
+9. Open https://missesanson.github.io/personal_portfolio/ and press Ctrl+Shift+R once.
+
+After this, publish through Pages CMS. Each Save creates a commit and triggers the same workflow.

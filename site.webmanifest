@@ -1,0 +1,15 @@
+{
+  "name": "Anson Han — Writer & Researcher",
+  "short_name": "Anson Han",
+  "start_url": "/personal_portfolio/",
+  "display": "standalone",
+  "background_color": "#f4efe7",
+  "theme_color": "#1d1d1b",
+  "icons": [
+    {
+      "src": "/personal_portfolio/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
