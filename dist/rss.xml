@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Anson Han Journal</title>
+    <description>The writing portfolio of Anson Han: research-led articles, copywriting, ghostwriting, essays and editing.</description>
+    <link>https://missesanson.github.io/personal_portfolio</link>
+    <language>en</language>
+    <item>
+      <title>Why Complex Ideas Need Better Writers</title>
+      <description>Expertise is valuable only when another person can understand, remember and use it.</description>
+      <link>https://missesanson.github.io/personal_portfolio/writing/why-complex-ideas-need-better-writers/</link>
+      <guid isPermaLink="true">https://missesanson.github.io/personal_portfolio/writing/why-complex-ideas-need-better-writers/</guid>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Research</category>
+    </item>
+    <item>
+      <title>The Discipline of Finishing</title>
+      <description>Starting is powered by possibility. Finishing requires a different kind of courage.</description>
+      <link>https://missesanson.github.io/personal_portfolio/writing/the-discipline-of-finishing/</link>
+      <guid isPermaLink="true">https://missesanson.github.io/personal_portfolio/writing/the-discipline-of-finishing/</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Essays</category>
+    </item>
+    <item>
+      <title>How to Learn a Hard Subject Without Pretending It Is Easy</title>
+      <description>A practical framework for turning confusion into a sequence of solvable problems.</description>
+      <link>https://missesanson.github.io/personal_portfolio/writing/how-to-learn-a-hard-subject/</link>
+      <guid isPermaLink="true">https://missesanson.github.io/personal_portfolio/writing/how-to-learn-a-hard-subject/</guid>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Articles</category>
+    </item>
+  </channel>
+</rss>

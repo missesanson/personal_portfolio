@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://missesanson.github.io/personal_portfolio/sitemap.xml
