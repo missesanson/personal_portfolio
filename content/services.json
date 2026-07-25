@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Articles & explainers",
+    "kicker": "Research-led writing",
+    "description": "Clear, well-structured articles that turn a difficult subject into something an intelligent general reader can follow.",
+    "deliverables": "Blog posts, explainers, educational articles and thought-leadership drafts.",
+    "idealFor": "Educators, founders, student organisations and small teams with expertise to share."
+  },
+  {
+    "name": "Website copy",
+    "kicker": "Words with a job to do",
+    "description": "Homepage, about-page and service copy that explains what you offer without sounding inflated or generic.",
+    "deliverables": "Landing pages, service pages, brand messaging and copy rewrites.",
+    "idealFor": "Small businesses, creators, community projects and early-stage brands."
+  },
+  {
+    "name": "Ghostwriting",
+    "kicker": "Your ideas, in your voice",
+    "description": "Posts and articles shaped from your notes, interviews or rough drafts, with careful attention to tone and point of view.",
+    "deliverables": "LinkedIn posts, founder articles, speeches, newsletters and personal essays.",
+    "idealFor": "People with strong ideas but limited time to turn them into polished writing."
+  },
+  {
+    "name": "Editing & rewriting",
+    "kicker": "Stronger without losing you",
+    "description": "Structural and line editing that improves logic, rhythm and readability while preserving the writer's meaning.",
+    "deliverables": "Developmental edits, line edits, rewrites and before-and-after explanations.",
+    "idealFor": "Students, independent writers, founders and teams working from an existing draft."
+  }
+]
