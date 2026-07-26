@@ -1,55 +1,28 @@
 ---
 title: Why Complex Ideas Need Better Writers
-description: Expertise is valuable only when another person can understand,
-  remember and use it.
-date: 2026-07-25
-category: Articles
+description: Basic blog style speech imitating a random person I found online.
+date: 2026-07-10
+category: Ghostwriting
 role: Author
-audience: People
 featured: true
 draft: false
 ---
-Expert knowledge often arrives in the wrong shape for a reader.
+In March 2020, epidemiologists had understood exponential growth for a very long time. You don't need a pandemic to explain a curve — the math was old news to anyone who'd sat through a stats class. What changed how hundreds of millions of people behaved that month wasn't new science. It was a picture: two curves on the same axis, one tall and sharp, one low and wide, both covering the same area — and three words underneath it. Flatten the curve. Hospital capacity didn't change that week. A hard idea just finally found a way to travel.
 
-The researcher sees a web of evidence. The engineer sees a system. The teacher sees the sequence of ideas that took years to learn. The reader sees one screen, one page and a limited amount of attention.
+I want to make a case that sounds almost too simple to deserve a talk: the ideas that change the world are rarely held back by being wrong. Far more often, they're held back by being badly written. And the people best equipped to fix that — people who can take something true and complicated and give it a shape ordinary attention can actually hold — are chronically undervalued. We treat their work as a nice-to-have polish, applied after the "real" work of discovery is finished. I think that's backwards. Translation is the real work, just as often as the discovery is.
 
-That difference is not a failure of intelligence. It is a problem of translation.
+Here's the problem in its simplest form: understanding something and being able to explain it are two different skills, and the second one gets worse the better you become at the first. Psychologists call this the curse of knowledge, and you've felt its effects even if you never learned the name. Ask a brilliant researcher to explain their own work in plain terms, and you'll often get a wall of vocabulary that took them a decade to earn and takes their audience zero seconds to lose. It isn't arrogance. It's amnesia. Once you truly know something, it becomes almost impossible to remember what it felt like not to.
 
-## Clear writing is not simplified thinking
+Some people fight that amnesia on purpose. The physicist Richard Feynman built an entire teaching career around refusing to forget what confusion feels like. His famous Caltech lectures are still read today less for the physics itself — plenty of textbooks have the physics — and more for the discipline behind them: rubber sheets standing in for the curvature of space, ants walking a rope standing in for waves, ordinary kitchen-table objects doing work that equations alone never could. He treated the hunt for the right analogy as seriously as the hunt for the right proof. Most fields don't. Most treat it as an afterthought, if they treat it as anything at all.
 
-People sometimes treat clarity as if it means removing complexity. It does not. Good explanatory writing preserves the important complexity while removing the avoidable difficulty.
+You can see exactly what happens when nobody does that work by looking at a document nearly everyone "agrees to" and almost nobody reads. A widely cited 2017 survey found that roughly nine in ten people accept a company's terms of service without reading it, a number that climbs even higher among younger users. This isn't really laziness — it's arithmetic. By some estimates, reading Microsoft's terms of service in full would take longer than reading the entire Art of War, with time to spare. Somewhere in that document sits the actual, binding shape of your relationship with the product in your pocket. The information is technically available to you. In any meaningful sense, you don't have access to it at all.
 
-A useful explanation answers three questions in order:
+It doesn't have to be this way. In 2010, the United States passed something called the Plain Writing Act, requiring federal agencies to write public-facing documents in language ordinary people can actually use — no more benefits forms that read like they were built to make you give up. It's a small, unglamorous law. It has still changed how tens of millions of people interact with their own government. Nothing about the underlying rules changed. What changed was who could reach them. That's the whole argument, in miniature.
 
-1. **What is the central idea?**
-2. **Why should the reader care?**
-3. **What must the reader understand next?**
+This isn't a new problem, and it has never been a small one. For most of European history, the single most consequential text in Western civilization existed only in Latin — readable by clergy, unreadable by the people whose entire lives it governed. When William Tyndale translated the New Testament into English in the 1520s so ordinary readers could meet it directly, church authorities didn't treat that as a stylistic choice. They hunted him for it, and he was eventually executed for heresy. Good translation doesn't just make an idea easier to reach. It changes who gets to hold it. That is exactly why it has always been contested, and exactly why it still is.
 
-This sounds obvious, but many technical drafts begin with background, qualifications and terminology before the reader knows what problem is being solved. The information may be accurate while the communication still fails.
+Here's the part that should worry us today. In a world with more information than any person could read in ten lifetimes, the ideas that spread aren't the accurate ones by default — they're the well-told ones. A complicated truth that takes five minutes and a diagram to explain will reliably lose the room to a simple, confident, wrong answer that takes five seconds. That isn't a character flaw we can shame people out of. It's a design constraint we have to write around. Any field that complains about being misunderstood by the public owes itself an honest question: how much of that gap did we try to close ourselves, and how much did we leave for someone far less careful to fill in?
 
-> The writer's job is not to make the subject look easy. It is to make the path through it visible.
+None of this is an argument for dumbing anything down. There's a real difference between the complexity that belongs to an idea and the difficulty that gets bolted onto it afterward — by jargon nobody bothered to translate, by a structure that follows how the writer discovered the idea instead of how a reader can absorb it, by a simple reluctance to search for the second metaphor instead of settling for the first one. Good writing doesn't remove the hard part of a hard idea. It removes the parts that were never actually load-bearing. What's left is simpler, not smaller — and getting there is usually harder than the original discovery, not easier. Done right, simplicity is an act of respect for the reader. It is never a concession to them.
 
-## Expertise creates blind spots
-
-Once a person knows a subject well, the intermediate steps become almost invisible. Terms feel familiar. Assumptions feel universal. Connections that once required effort now appear automatic.
-
-A writer can help by slowing the idea down and rebuilding those missing steps. That may involve replacing a definition with an example, turning a paragraph into a sequence, or stating the conclusion before explaining the mechanism.
-
-The goal is not to decorate the expert's knowledge. It is to give the reader a structure strong enough to hold it.
-
-## The best explanation has a point of view
-
-Information becomes memorable when it is organised around a claim. A list of facts may be correct, but a reader needs to know what those facts mean together.
-
-Consider the difference:
-
-- A weak article collects information about artificial intelligence in education.
-- A stronger article argues that AI is most useful when it reduces repetitive work without replacing the teacher's judgment.
-
-The second version gives every paragraph a purpose. Evidence can support, qualify or challenge the central claim. The reader always knows why a detail is present.
-
-## Better writing changes what knowledge can do
-
-Clear writing can help a study reach the public, help a product earn trust, help a student learn faster or help a team make a better decision. In each case, the words are not an accessory to the work. They are part of how the work creates value.
-
-Expertise deserves more than accurate sentences. It deserves writing that lets another mind enter the idea and leave with something useful.
+So here's the case, as plainly as I can put it: an idea that exists only in language nobody outside its field can follow might as well not have been discovered at all. We already know how to reward the person who finds the truth. It's time we got just as serious about rewarding the person who finds the sentence, the diagram, the three words that let everyone else hold it too. The next pandemic, the next climate report, the next hard idea that actually matters — somewhere between the discovery and the headline, someone is going to have to draw the curve and find the words that make it travel. Whether they're taken seriously enough to get the chance might matter almost as much as the science itself.
