@@ -1,16 +1,14 @@
 ---
-title: "Why Complex Ideas Need Better Writers"
-description: "Expertise is valuable only when another person can understand, remember and use it."
-date: "2026-07-25"
-category: "Research"
-project: "Independent portfolio project"
-role: "Research, structure and writing"
-audience: "Researchers, educators and technical teams"
+title: Why Complex Ideas Need Better Writers
+description: Expertise is valuable only when another person can understand,
+  remember and use it.
+date: 2026-07-25
+category: Articles
+role: Author
+audience: People
 featured: true
 draft: false
-cover: ""
 ---
-
 Expert knowledge often arrives in the wrong shape for a reader.
 
 The researcher sees a web of evidence. The engineer sees a system. The teacher sees the sequence of ideas that took years to learn. The reader sees one screen, one page and a limited amount of attention.
