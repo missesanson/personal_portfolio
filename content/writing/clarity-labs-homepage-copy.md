@@ -1,16 +1,14 @@
 ---
 title: "Clarity Labs: Homepage Copy"
-description: "A conversion-focused homepage sample for a fictional research software company."
-date: "2026-07-23"
-category: "Copywriting"
-project: "Independent portfolio project for a fictional company"
-role: "Positioning, messaging and website copy"
-audience: "Research teams and university laboratories"
-featured: true
+description: A conversion-focused homepage sample for a fictional research software company.
+date: 2026-07-23
+category: Copywriting
+project: Independent portfolio project for a fictional company
+role: Positioning, messaging and website copy
+audience: Research teams and university laboratories
+featured: false
 draft: false
-cover: ""
 ---
-
 ## Project brief
 
 Clarity Labs is a fictional software company that helps small research teams organise literature, decisions and experimental notes. The copy needed to sound credible without becoming dense or overly technical.
@@ -53,7 +51,7 @@ Create a workspace, import your current notes and invite your team. You do not n
 
 **Start a workspace**
 
-_No credit card required for the starter plan._
+*No credit card required for the starter plan.*
 
 ---
 
