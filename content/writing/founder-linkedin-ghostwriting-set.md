@@ -1,16 +1,15 @@
 ---
-title: "Founder LinkedIn Ghostwriting Set"
-description: "Three voice-matched posts for a fictional founder writing about leadership, product decisions and useful ambition."
-date: "2026-07-21"
-category: "Ghostwriting"
-project: "Independent portfolio project for a fictional founder"
-role: "Voice development, ideation and writing"
-audience: "Founders, operators and early-career professionals"
-featured: true
+title: Founder LinkedIn Ghostwriting Set
+description: Three voice-matched posts for a fictional founder writing about
+  leadership, product decisions and useful ambition.
+date: 2026-07-21
+category: Ghostwriting
+project: Independent portfolio project for a fictional founder
+role: Voice development, ideation and writing
+audience: Founders, operators and early-career professionals
+featured: false
 draft: false
-cover: ""
 ---
-
 ## Voice brief
 
 The fictional founder is direct, reflective and practical. He avoids exaggerated success stories and prefers observations drawn from ordinary work.
