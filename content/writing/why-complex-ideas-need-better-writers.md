@@ -1,5 +1,5 @@
 ---
-title: Why Complex Ideas Need Better Writers
+title: Draft
 description: Basic blog style speech imitating a random person I found online.
 date: 2026-07-10
 category: Ghostwriting
