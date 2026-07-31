@@ -1,5 +1,5 @@
 ---
-title: "Editing: Before and After"
+title: Draft
 description: An example of an edit on a short text.
 date: 2026-06-16
 category: Editing
