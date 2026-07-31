@@ -5,8 +5,8 @@ date: 2026-06-16
 category: Editing
 project: Independent editing demonstration
 role: Author
-featured: true
-draft: false
+featured: false
+draft: true
 ---
 ## Folding the four headers into connected reasoning — a checklist making one continuous argument is the kind of structure this piece would flag in someone else's writing:
 
