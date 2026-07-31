@@ -4,8 +4,8 @@ description: Basic blog style speech imitating a random person I found online.
 date: 2026-07-10
 category: Ghostwriting
 role: Author
-featured: true
-draft: false
+featured: false
+draft: true
 ---
 In March 2020, epidemiologists had understood exponential growth for a very long time. You don't need a pandemic to explain a curve — the math was old news to anyone who'd sat through a stats class. What changed how hundreds of millions of people behaved that month wasn't new science. It was a picture: two curves on the same axis, one tall and sharp, one low and wide, both covering the same area — and three words underneath it. Flatten the curve. Hospital capacity didn't change that week. A hard idea just finally found a way to travel.
 
