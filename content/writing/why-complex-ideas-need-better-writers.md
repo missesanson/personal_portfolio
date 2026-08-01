@@ -2,7 +2,7 @@
 title: A Truth with Words
 description: A talk about why hard ideas keep losing to easy lies — and the
   unglamorous job of fixing that, imitating Hans Rosling.
-date: 2026-07-10
+date: 2026-07-11
 category: Ghostwriting
 role: Author
 featured: false
