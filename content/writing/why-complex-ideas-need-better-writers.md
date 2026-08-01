@@ -5,8 +5,8 @@ description: A talk about why hard ideas keep losing to easy lies — and the
 date: 2026-07-11
 category: Ghostwriting
 role: Author
-featured: false
-draft: true
+featured: true
+draft: false
 ---
 Before I tell you anything else, I want you to guess something.
 
