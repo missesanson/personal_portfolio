@@ -3,7 +3,7 @@ title: Sugar, Salt, and the Cheapest Miracle in Medicine
 description: A personal reflection on oral rehydration solution — the same
   invention at the center of my Harvard International Review essay this year
   (which has missed its deadline), explored here from a different angle.
-date: 2026-07-26
+date: 2026-07-31
 category: Articles
 role: Author
 featured: true
